@@ -1,0 +1,3 @@
+[submodule "barcode-detection"]
+	path = barcode-detection
+	url = https://github.com/Aleksey294/CV-1-35_barcode-detection.git
